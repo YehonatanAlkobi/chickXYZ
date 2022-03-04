@@ -1,4 +1,4 @@
-16, Back-End / Front End Developer.
+16, Full-Stack JavaScript Programmer.
 
 ---
 <a href="https://discord.com/users/255334252491571200">
