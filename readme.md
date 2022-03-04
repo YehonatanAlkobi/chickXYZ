@@ -2,7 +2,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/255334252491571200?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment..." align="right" />
 </a>
 
-<div class="title" style="font-size: 2vh;">16, Back-End / Front End Developer.</div>
+<div class="title" style="font-size: 10vh;">16, Back-End / Front End Developer.</div>
 
 ---
 
