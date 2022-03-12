@@ -7,7 +7,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chickXYZ&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/chickXYZ/github-readme-stats)
 
-<img align="right" alt="coding" width="400" style="border-radius: 1vh;" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
+<img align="right" alt="coding" width="350" style="border-radius: 1vh;" src="https://i.pinimg.com/originals/ab/c4/5b/abc45b9c356fbb846632f010aa3a44ef.gif">
 
 ![chickXYZGitHub stats](https://github-readme-stats.vercel.app/api?username=chickXYZ&show_icons=true&theme=tokyonight)
 
