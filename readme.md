@@ -1,3 +1,6 @@
+<img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 16, Full-Stack JavaScript Programmer.
 
 ---
