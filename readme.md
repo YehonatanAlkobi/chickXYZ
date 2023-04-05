@@ -1,4 +1,4 @@
-16, Full-Stack JavaScript Programmer.
+16, A dreamer.
 
 ---
 <a href="https://discord.com/users/255334252491571200">
