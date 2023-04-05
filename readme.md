@@ -9,4 +9,3 @@
 
 ![chickXYZGitHub stats](https://github-readme-stats.vercel.app/api?username=chickXYZ&show_icons=true&theme=tokyonight)
 
-[![Hits](https://hits.link/hits?url=https://github.com/chickXYZ&bgLeft=444444&bgRight=575fff&label=visits)](https://hits.link)
