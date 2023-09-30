@@ -1,6 +1,8 @@
 17, A dreamer.
 <br>
 Education - <b>Mekif Tet - Rishon Lezzyion</b> / Bar Ilan University
+Studying to succeed In life.
+School - Computer science major / Physics
 
 ---
 <a href="https://discord.com/users/255334252491571200">
