@@ -1,4 +1,5 @@
 17, A dreamer.
+Education - <b>Mekif Tet - Rishon Lezzyion</b> / Bar Ilan University
 
 ---
 <a href="https://discord.com/users/255334252491571200">
